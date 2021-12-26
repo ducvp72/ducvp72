@@ -112,7 +112,7 @@
   <br/>
 <p align="center">
   <a href="https://github.com/ducvp72/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ducvp72's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ducvp72&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ducvp72's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ducvp72&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 </details>
@@ -121,7 +121,7 @@
   <summary>💻 Most used languages</summary>
   <br/>
   <p align="center">
-  <a href="#"><img alt="ducvp72's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducvp72&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="#"><img alt="ducvp72's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducvp72&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
     <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
   </p>
@@ -149,7 +149,7 @@
   <summary>🚀 My Latest Update</summary><br/>
 <p align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducvp72&repo=E-Social-MXH&theme=radical)](https://github.com/ducvp72/E-Social-MXH)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducvp72&repo=E-Social-MXH&theme=tokyonight)](https://github.com/ducvp72/E-Social-MXH)
 
 </p> 
 </details>
