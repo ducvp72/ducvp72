@@ -152,13 +152,14 @@
 
 </p> 
 </details>
-  
   <div align="center">
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
 #### **Visitor Count**
+ <p align="center">
  ![Visitor Count](https://profile-counter.glitch.me/{ducvp72}/count.svg)
+   </p>
 ------
 
 Credit: [DucVo72](https://github.com/ducvp72)
