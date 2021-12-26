@@ -6,9 +6,10 @@
   
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.facebook.com/DerrickVo72/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667"/></a>
-<!--     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/channel/UCcX4aonOsnrBRbyJhBaQH1Q"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> -->
+<!--   <a href="https://www.facebook.com/DerrickVo72/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667"/></a> -->
+ </p>
+ <p align="center">
+<a href="https://www.facebook.com/DerrickVo72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 </p>
 
   
@@ -156,7 +157,8 @@
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
-
+#### **Visitor Count**
+ ![Visitor Count](https://profile-counter.glitch.me/{ducvp72}/count.svg)
 ------
 
 Credit: [DucVo72](https://github.com/ducvp72)
