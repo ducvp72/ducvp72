@@ -121,13 +121,11 @@
   <summary>💻 Most used languages</summary>
   <br/>
   <p align="center">
-  <a href="#"><img alt="ducvp72's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducvp72&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-    <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-  </p>
-<!--   Other style
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducvp72&langs_count_private=true&theme=radical&card_width=445)<br><br> -->
+  <a href="#"><img alt="ducvp72's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducvp72&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=#70a4fc&icon_color=F8D866&hide=Jupyter%20Notebook" width="500px  height="192px"/></a>
+  <br/> 
   
+#### (*)Note: This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</p>
 </details>
 
 <details>
