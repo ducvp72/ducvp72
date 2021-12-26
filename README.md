@@ -157,9 +157,9 @@
 </div>
 
 #### **Visitor Count**
- <p align="center">
  ![Visitor Count](https://profile-counter.glitch.me/{ducvp72}/count.svg)
-   </p>
+ 
+   
 ------
 
 Credit: [DucVo72](https://github.com/ducvp72)
