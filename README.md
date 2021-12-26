@@ -1,16 +1,11 @@
+ 
+ 
  <h1 align="center">Hi, I'm <a href="https://github.com/ducvp72">Duc Phu Vo !<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
   
 <p align="center">
  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
   
-<!-- Social icons section -->
-<p align="center">
-<!--   <a href="https://www.facebook.com/DerrickVo72/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667"/></a> -->
- </p>
- <p align="center">
-<a href="https://www.facebook.com/DerrickVo72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
-</p>
 
   
 ## 📖 About me
@@ -151,15 +146,41 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducvp72&repo=E-Social-MXH&theme=tokyonight)](https://github.com/ducvp72/E-Social-MXH)
 
 </p> 
-</details>
-  <div align="center">
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
+</details><br/>
 
-#### **Visitor Count**
- ![Visitor Count](https://profile-counter.glitch.me/{ducvp72}/count.svg)
- 
+ <!-- Social icons section -->
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+<p align="center">
+  <a href="mailto:tien.huynhlt.tn@gmail.com" >
+    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+<!--   <a href="#" target="_blank">
+    <img align="center" alt="ducvp72 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp; -->
+  
+  <a href="https://www.facebook.com/DerrickVo72/" target="_blank">
+      <img align="center" alt="ducvp72 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+<!--   <a href="#" target="_blank">
+    <img align="center" alt="ducvp72 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp; -->
+  
+  <a href="https://github.com/ducvp72" target="_blank">
+    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+<p> 
    
+## **Visitor Count**
+ <p align="center"> 
+  <img src="https://profile-counter.glitch.me/ducvp72/count.svg" />
+</p>
+   
+  <div align="center">
+<!--   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
+</div>
+ 
 ------
 
 Credit: [DucVo72](https://github.com/ducvp72)
