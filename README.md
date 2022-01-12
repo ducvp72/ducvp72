@@ -124,12 +124,12 @@
 </p>
 </details>
 
-<details>
+<!--<details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 <!--START_SECTION:activity-->
 <!--START_SECTION:activity-->
-💪 Working on: Vn-Social Network: (https://github.com/ducvp72/E-Social-MXH)
+<!--💪 Working on: Vn-Social Network: (https://github.com/ducvp72/E-Social-MXH)-->
 <!-- 2. 🗣 Commented on 
 3. 🎉 Merged PR 
 4. ❗️ Closed issue 
@@ -139,20 +139,20 @@
 <!--END_SECTION:activity-->
 </details>
 
-<details>
+<!--<details>
   <summary>🚀 My Latest Update</summary><br/>
 <p align="center">
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ducvp72&repo=E-Social-MXH&theme=tokyonight)](https://github.com/ducvp72/E-Social-MXH)
 
 </p> 
-</details><br/>
+</details><br/>-->
 
  <!-- Social icons section -->
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:tien.huynhlt.tn@gmail.com" >
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="ducvp72 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
 <!--   <a href="#" target="_blank">
@@ -168,7 +168,7 @@
   </a> &nbsp;&nbsp; -->
   
   <a href="https://github.com/ducvp72" target="_blank">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" alt="DucVp | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
    
