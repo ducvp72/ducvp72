@@ -10,10 +10,8 @@
 
   
 ## 📖 About me
-* 💻 I'm a Student of Ho Chi Minh City University of Technology and Education
-* 🎨 I'm a MERN stack developer
-* 📱 I make Web app
-* 🎓 I'm will be a Information technology engineer(looking forward to graduation at August 2021)
+* 💻 I'm graduated from Ho Chi Minh City University of Technology and Education
+* 🎨 My majority is NET and extra is MERN stack developer
 * 🔗You can contact with me on [my Facebook](https://www.facebook.com/DerrickVo72/)
 * 📫 Reach me at duclionel07022@gmail.com
   
