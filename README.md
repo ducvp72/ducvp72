@@ -11,8 +11,8 @@
   
 ## 📖 About me
 * 💻 I'm graduated from Ho Chi Minh City University of Technology and Education
-* 🎨 My majority is NET and extra is MERN stack developer
-* 🔗You can contact with me on [my Facebook](https://www.facebook.com/DerrickVo72/)
+* 🎨 My majority is Golang and .NET also familiar with Reactjs library
+* 🔗You can contact with me on [my Facebook](https://www.facebook.com/ducvp72/)
 * 📫 Reach me at duclionel07022@gmail.com
   
 
